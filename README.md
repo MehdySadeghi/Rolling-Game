@@ -1,0 +1,1 @@
+A little game based on vanilla JavaScript and a bit of HTML5 & CSS3 which when you reach to 50 points you'll win the game (pay attention because if you roll a 1 before saving your points you'll lose all the points you had🤪)
