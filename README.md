@@ -61,9 +61,8 @@ Rolling Game combines simple game mechanics with dynamic user interactions, prov
 ```text
 Rolling-Game/
 │
-├── css/
-├── js/
-│   └── script.js
+├── styles.css
+├── script.js
 │
 ├── index.html
 └── README.md
