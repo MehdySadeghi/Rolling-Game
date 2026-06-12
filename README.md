@@ -6,7 +6,7 @@ Rolling Game combines simple game mechanics with dynamic user interactions, prov
 
 ## 🚀 Live Demo
 
-**Try it here:** https://your-rolling-game-live-link.com
+**Try it here:** https://mehdysadeghi.github.io/Rolling-Game/
 
 ---
 
