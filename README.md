@@ -12,8 +12,6 @@ Rolling Game combines simple game mechanics with dynamic user interactions, prov
 
 ## 📸 Preview
 
-> Add screenshots of your application here.
-
 ### Game Board
 
 ```md id="q8z6mp"
